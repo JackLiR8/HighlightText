@@ -1,3 +1,6 @@
-# HighlightText
+# HighlightText example
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/JackLiR8/HighlightText)
+如何给字符串中的某一部分文字添加样式？
+
+![示例图](./assets/example.png)
+

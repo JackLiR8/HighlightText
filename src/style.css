@@ -10,7 +10,17 @@ body {
   background-color: white;
 }
 
-h1 {
-  font-weight: 800;
-  font-size: 1.5rem;
+.container {
+  max-width: 600px;
+  margin: 100px auto;
+  margin-top: 200px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
 }
