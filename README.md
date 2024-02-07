@@ -1,6 +1,7 @@
 # HighlightText example
 
-如何给字符串中的某一部分文字添加样式？
+WHY? [看这里](https://juejin.cn/post/7332388389945802788)  
+如何给字符串中的某一部分文字添加样式？   
 
 ![示例图](./assets/example.gif)
 
